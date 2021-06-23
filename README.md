@@ -1,4 +1,4 @@
-# Data-Efficient-Mixed-Reality-Human-Activity-Recognition-by-Semi-Supervised-Domain-Adaptation-with-Tr
+# Data-Efficient-Mixed-Reality-Human-Activity-Recognition-by-Semi-Supervised-Domain-Adaptation-with-Triplet Information Bottleneck
 Codes for Data Efficient Mixed-Reality Human Activity Recognition
 
 
